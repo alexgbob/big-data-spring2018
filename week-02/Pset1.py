@@ -93,9 +93,9 @@ num_items
 #Max Function
 
 def max(*numeric_list):
-    num_items = len(numeric_list)
-    maximum = reversed(numeric_list.sort())
-    return maximum[0]
+    sort_list = sorted(numeric_list)
+    sort_list.reverse()
+    return sort_list[0]
 
 # test
 max(100, 599, 11111, 3, 9)
