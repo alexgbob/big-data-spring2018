@@ -246,5 +246,5 @@ plt.show()
 
 ##Step 7
 
-tweets2.to_csv("scraped_tweets", encoding = 'utf-8')
-hous_tweets.to_csv("scraped_tweets_srchd", encoding = 'utf-8')
+tweets2.to_csv("scraped_tweets.csv", encoding = 'utf-8')
+hous_tweets.to_csv("scraped_tweets_srchd.csv", encoding = 'utf-8')
