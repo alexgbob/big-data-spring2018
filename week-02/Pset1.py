@@ -46,7 +46,17 @@ def random_int(high_num,low_num = 0): #define random_int function with parameter
 assert(0 <= random_int(100) <= 100)
 assert(50 <= random_int(100, low_num = 50) <= 100)
 
+'''
+Alex, remember that a function always needs to be callable to be complete! So, many sure you include a statement like the one below so that your function is usable.
+'''
+print(random_int(100, 4))
+# end of PH edits
+
 # D String formating function
+
+'''
+Alex, unfortunately, your string formatting function appears to be missing!
+'''
 
 def pswd_eval():
     password = input("input password -->")
@@ -65,6 +75,12 @@ def pswd_eval():
         message = "Great password!"
     return(message)
 
+'''
+Alex, see my comment above about a function always needing to be callable to be complete! See below.
+'''
+pswd_eval()
+# end of PH edits
+
 # F. Exponentiation Function
 
 def exp(base,exponent):
@@ -76,7 +92,10 @@ def exp(base,exponent):
         exponent = exponent - 1
     return result
 
-
+'''
+Alex, see my comment above about a function always needing to be callable to be complete! See below.
+'''
+exp(2,4)
 # G. Extra Credit: Min and Max Functions
 
 # Min Function
@@ -99,3 +118,4 @@ def max(*numeric_list):
 
 # test
 max(100, 599, 11111, 3, 9)
+min(100, 599, 11111, 3, 9)
