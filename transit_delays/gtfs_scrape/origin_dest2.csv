@@ -1,0 +1,128 @@
+﻿origin_id,origin_name,origin_lat,origin_lon,dest_id,dest_name,dest_lat,dest_long,line
+70001,Forest Hills Orange Line,42.300523,-71.113686,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70003,Green Street - Inbound,42.310525,-71.107414,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70005,Stony Brook - Inbound,42.317062,-71.104248,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70007,Jackson Square - Inbound,42.323132,-71.099592,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70009,Roxbury Crossing - Inbound,42.331397,-71.095451,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70011,Ruggles - Inbound,42.336377,-71.088961,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70013,Massachusetts Avenue - Inbound,42.341512,-71.083423,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70015,Back Bay - Inbound,42.34735,-71.075727,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70017,Tufts Medical Center - Inbound,42.349662,-71.063917,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70019,Chinatown - Inbound,42.352547,-71.062752,70021,Downtown Crossing - to Oak Grove,42.355518,-71.060225,Orange
+70022,State Street - to Forest Hills,42.358978,-71.057598,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70024,Haymarket - Orange Line Inbound,42.363021,-71.05829,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70026,North Station - Orange Line Inbound,42.365577,-71.06129,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70028,Community College - Inbound,42.373622,-71.069533,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70030,Sullivan Square - Inbound,42.383975,-71.076994,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70278,Assembly - Inbound,42.392811,-71.077257,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70032,Wellington - Inbound,42.40237,-71.077082,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70034,Malden - Inbound,42.426632,-71.07411,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70036,Oak Grove,42.43668,-71.071097,70020,Downtown Crossing - to Forest Hills,42.355518,-71.060225,Orange
+70038,Bowdoin - Inbound,42.361365,-71.062037,70042,State Street - to Wonderland,42.358978,-71.057598,Blue
+70040,Government Center - to Wonderland,42.359705,-71.059215,70042,State Street - to Wonderland,42.358978,-71.057598,Blue
+70043,Aquarium - Inbound,42.359784,-71.051652,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70045,Maverick - Inbound,42.36911856,-71.03952958,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70047,Airport - Inbound,42.374262,-71.030395,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70049,Wood Island - Inbound,42.3796403,-71.02286539,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70051,Orient Heights - Inbound,42.386867,-71.004736,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70053,Suffolk Downs - Inbound,42.39050067,-70.99712259,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70055,Beachmont - Inbound,42.39754234,-70.99231944,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70057,Revere Beach - Inbound,42.40784254,-70.99253321,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70059,Wonderland - Inbound,42.41342,-70.991648,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70060,Wonderland,42.41342,-70.991648,70041,State Street - to Bowdoin,42.358978,-71.057598,Blue
+70061,Alewife,42.395428,-71.142483,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70063,Davis - Inbound,42.39674,-71.121815,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70065,Porter - Inbound,42.3884,-71.119149,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70067,Harvard - Inbound,42.373362,-71.118956,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70069,Central - Inbound,42.365486,-71.103802,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70071,Kendall/MIT - Inbound,42.36249079,-71.08617653,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70073,Charles/MGH - Inbound,42.361166,-71.070628,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70075,Park Street - to Ashmont/Braintree,42.35639457,-71.0624242,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+70080,South Station - Inbound,42.352271,-71.055242,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70082,Broadway - Inbound,42.342622,-71.056967,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70084,Andrew - Inbound,42.330154,-71.057655,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70086,JFK/UMASS Ashmont - Inbound,42.320685,-71.052391,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70088,Savin Hill - Inbound,42.31129,-71.053331,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70090,Fields Corner - Inbound,42.300093,-71.061667,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70092,Shawmut - Inbound,42.29312583,-71.06573796,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70094,Ashmont - Inbound,42.284652,-71.064489,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70261,Ashmont - Mattapan Line,42.284652,-71.064489,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70262,Ashmont - Mattapan Line Inbound,42.284652,-71.064489,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70264,Cedar Grove - Inbound,42.279682,-71.060432,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70266,Butler - Inbound,42.272343,-71.062584,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70268,Milton - Inbound,42.270306,-71.067673,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70270,Central Avenue - Inbound,42.270027,-71.073334,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70272,Valley Road - Inbound,42.268322,-71.081566,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70274,Capen Street - Inbound,42.267712,-71.087753,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70276,Mattapan - Inbound,42.267762,-71.092241,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70096,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70098,North Quincy - Inbound,42.275275,-71.029583,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70100,Wollaston - Inbound,42.2665139,-71.0203369,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70102,Quincy Center - Inbound,42.251809,-71.005409,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70104,Quincy Adams - Inbound,42.233391,-71.007153,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70105,Braintree,42.2078543,-71.0011385,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+70106,Boston College - Inbound,42.340081,-71.166769,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70110,South Street - Inbound,42.3396,-71.157661,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70112,Chestnut Hill Avenue - Inbound,42.338169,-71.15316,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70114,Chiswick Road - Inbound,42.340805,-71.150711,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70116,Sutherland Road - Inbound,42.341614,-71.146202,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70120,Washington Street - Inbound,42.343864,-71.142853,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70124,Warren Street - Inbound,42.348343,-71.140457,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70126,Allston Street - Inbound,42.348701,-71.137955,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70128,Griggs Street - Inbound,42.348545,-71.134949,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70130,Harvard Avenue - Inbound,42.350243,-71.131355,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70134,Packards Corner - Inbound,42.351967,-71.125031,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70136,Babcock Street - Inbound,42.35182,-71.12165,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70138,Pleasant Street - Inbound,42.351521,-71.118889,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70140,Saint Paul Street - Inbound,42.3512,-71.116104,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70142,Boston Univ West - Inbound,42.350941,-71.113876,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70144,Boston Univ Central - Inbound,42.350082,-71.106865,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70146,Boston Univ East - Inbound,42.349735,-71.103889,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70148,Blandford Street - Inbound,42.349293,-71.100258,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70150,Kenmore - Inbound,42.348949,-71.095169,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70152,Hynes - Inbound,42.347888,-71.087903,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70154,Copley - Inbound,42.349974,-71.077447,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70156,Arlington - Inbound,42.351902,-71.070893,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70158,Boylston - Inbound,42.35302,-71.06459,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70160,Riverside - Inbound,42.337059,-71.251742,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70162,Woodland - Inbound,42.333374,-71.244301,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70164,Waban - Inbound,42.325943,-71.230728,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70166,Eliot - Inbound,42.319023,-71.216713,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70168,Newton Highlands - Inbound,42.321735,-71.206116,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70170,Newton Centre - Inbound,42.329391,-71.192429,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70172,Chestnut Hill - Inbound,42.326653,-71.165314,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70174,Reservoir - Inbound,42.335027,-71.148952,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70176,Beaconsfield - Inbound,42.335846,-71.140823,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70178,Brookline Hills - Inbound,42.331333,-71.126999,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70180,Brookline Village - Inbound,42.332774,-71.116296,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70182,Longwood - Inbound,42.341145,-71.110451,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70186,Fenway - Inbound,42.345394,-71.104187,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70202,Government Center - Green Line Westbound,42.359705,-71.059215,70199,Park Street - Green Line - E Branch Berth,42.35639457,-71.0624242,Green
+70204,Haymarket - Green Line Inbound,42.363021,-71.05829,70199,Park Street - Green Line - E Branch Berth,42.35639457,-71.0624242,Green
+70206,North Station - Green Line Inbound,42.365577,-71.06129,70199,Park Street - Green Line - E Branch Berth,42.35639457,-71.0624242,Green
+70208,Science Park - Inbound,42.366664,-71.067666,70199,Park Street - Green Line - E Branch Berth,42.35639457,-71.0624242,Green
+70210,Lechmere - Inbound,42.370772,-71.076536,70199,Park Street - Green Line - E Branch Berth,42.35639457,-71.0624242,Green
+70212,Saint Mary Street - Inbound,42.345974,-71.107353,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70214,Hawes Street - Inbound,42.344906,-71.111145,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70216,Kent Street - Inbound,42.344074,-71.114197,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70218,Saint Paul Street - Inbound,42.343327,-71.116997,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70220,Coolidge Corner - Inbound,42.342116,-71.121263,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70224,Summit Avenue - Inbound,42.34111,-71.12561,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70226,Brandon Hall - Inbound,42.340023,-71.129082,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70228,Fairbanks Street - Inbound,42.339725,-71.131073,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70230,Washington Square - Inbound,42.339394,-71.13533,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70232,Tappan Street - Inbound,42.338459,-71.138702,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70234,Dean Road - Inbound,42.337807,-71.141853,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70236,Englewood Avenue - Inbound,42.336971,-71.14566,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70238,Cleveland Circle - Inbound,42.336142,-71.149326,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70240,Prudential - Inbound,42.34557,-71.081696,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70242,Symphony - Inbound,42.342687,-71.085056,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70244,Northeastern - Inbound,42.340401,-71.088806,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70246,Museum of Fine Arts - Inbound,42.337711,-71.095512,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70248,Longwood Medical Area - Inbound,42.33596,-71.100052,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70250,Brigham Circle - Inbound,42.334229,-71.104609,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70252,Fenwood Road - Inbound,42.333706,-71.105728,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70254,Mission Park - Inbound,42.333195,-71.109756,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70256,Riverway - Inbound,42.331684,-71.111931,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70258,Back of the Hill - Inbound,42.330139,-71.111313,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
+70260,Heath Street,42.328681,-71.110559,70200,Park Street - Green Line Eastbound,42.35639457,-71.0624242,Green
