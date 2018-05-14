@@ -34,9 +34,9 @@
         .attr("width", width)
         .attr("height", height);
 
-		var svg2 = d3.select("#chart").append("svg")
-        .attr("width", width)
-        .attr("height", height);
+		// var svg2 = d3.select("#chart").append("svg")
+    //     .attr("width", width)
+    //     .attr("height", height);
 
 		var x = d3.scaleLinear()
 		    .domain([0, 0.1, 0.2, 0.3, 0.4])
@@ -144,30 +144,30 @@
 					  y.domain([0, d3.max(calls, function(d) { return d.total; })]).nice();
 					  z.domain(keys);
 
-					  g.append("g")
-							.selectAll("g")
-							.data(d3.stack().keys(keys)(calls))
-							.enter().append("g")
-							  .attr("fill", function(d) { return z(d.key); })
-							.selectAll("rect")
-							.data(function(d) { return d; })
-							.enter().append("rect")
-							  .attr("x", function(d) { return x(d.Name); })
-							  .attr("y", function(d) { return y(d[1]); })
-							  .attr("height", function(d) { return y(d[0]) - y(d[1]); })
-							  .attr("width", x.bandwidth())
-							  //The next line assigns each rectangle a class that matches the state names above: AK, AR, etc.
-							  .attr("class", function (d) { return d.Name;})
-							  //The mouseover functions work just like the ones in the map, they add "hover" class to all matching elements
-							.on("mouseover", function(d) {
-									//d3.select(this).classed("hover",true);
-									d3.selectAll("." + d.Name).classed("hover",true);
-									console.log(d.data.Name);
-								})
-							.on("mouseout", function(d) {
-								//d3.select(this).classed("hover",false);
-								d3.selectAll("." + d.Name).classed("hover", false);
-							});
+					  // g.append("g")
+						// 	.selectAll("g")
+						// 	.data(d3.stack().keys(keys)(calls))
+						// 	.enter().append("g")
+						// 	  .attr("fill", function(d) { return z(d.key); })
+						// 	.selectAll("rect")
+						// 	.data(function(d) { return d; })
+						// 	.enter().append("rect")
+						// 	  .attr("x", function(d) { return x(d.Name); })
+						// 	  .attr("y", function(d) { return y(d[1]); })
+						// 	  .attr("height", function(d) { return y(d[0]) - y(d[1]); })
+						// 	  .attr("width", x.bandwidth())
+						// 	  //The next line assigns each rectangle a class that matches the state names above: AK, AR, etc.
+						// 	  .attr("class", function (d) { return d.Name;})
+						// 	  //The mouseover functions work just like the ones in the map, they add "hover" class to all matching elements
+						// 	.on("mouseover", function(d) {
+						// 			//d3.select(this).classed("hover",true);
+						// 			d3.selectAll("." + d.Name).classed("hover",true);
+						// 			console.log(d.data.Name);
+						// 		})
+						// 	.on("mouseout", function(d) {
+						// 		//d3.select(this).classed("hover",false);
+						// 		d3.selectAll("." + d.Name).classed("hover", false);
+						// 	});
 				//
 				// 	  g.append("g")
 				// 		  .attr("class", "axis")
